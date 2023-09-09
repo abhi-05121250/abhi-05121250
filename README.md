@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhilasha Kumari</h1>
-<h3 align="center">A aspiring Software Engineer developer from India</h3>
+<h3 align="center">Aspiring Leader| Software Developer| Motive is to grow and uplift in Tech.</h3>
 <img align="right" alt="girl who code" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🌱 I’m currently learning **JAVA, DBMS, DSA etc**
