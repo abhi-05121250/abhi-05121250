@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Leader| Software Developer| Motive is to grow and uplift in Tech.</h3>
 <img align="right" alt="girl who code" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **JAVA, DBMS, DSA etc**
+- 🌱 I’m currently gaining experience working on **JAVA, DBMS, DSA etc**
 
 - 💬 Ask me about **How to develop soft skills(which is being forgotten by the aspiring engineers like us)**
 
