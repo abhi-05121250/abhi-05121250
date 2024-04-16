@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **How to develop soft skills(which is being forgotten by the aspiring engineers like us)**
 
-- 📫 How to reach me **1999abhilashakumari@gmail.com**
+- 📫 How to reach me **abhilashakumari7260@gmail.com**
 
 - ⚡ Fun fact **I think I am talkative(but in productive way)**
 
