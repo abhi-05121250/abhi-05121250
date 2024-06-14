@@ -1,9 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Abhilasha Kumari working at HiCounselor.com as a Software Engineer</h1>
+<h1 align="center">Hi 👋, I'm Abhilasha Kumari</h1>
 <h3 align="center">Aspiring Leader| Software Developer| Motive is to grow and uplift in Tech.</h3>
 <img align="right" alt="girl who code" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
--  I have 1+ years of experience working in various domains like full stack, machine learning, and backend.
+-   I am currently working at HiCounselor.com as a Software Engineer.
+-   I have 1+ years of experience working in various domains like full stack, machine learning, and backend.
 
 - 💬 Ask me about **How to develop soft skills(which is being forgotten by the aspiring engineers like us)**
 
