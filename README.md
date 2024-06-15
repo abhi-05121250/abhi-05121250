@@ -1,16 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Abhilasha Kumari</h1>
-<h3 align="center">Aspiring Leader| Software Developer| Motive is to grow and uplift in Tech.</h3>
+# Hi 👋, I'm Abhilasha Kumari
+
+## Aspiring Leader | Software Developer | Motivated to Grow in Tech
+
 <img align="right" alt="girl who code" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
--   I am currently working at HiCounselor.com as a Software Engineer.
--   I have 1+ years of experience working in various domains like full stack, machine learning, and backend.
+- **Current Role:** Software Developer at HiCounselor.com
+- **Experience:** Over 1 year in full stack, backend, and machine learning domains.
+- **GitHub Initiative:** Building resources for learners , focusing on DSA.
+- **Passion:** Developing soft skills, often overlooked by aspiring engineers like us.
 
-- 💬 Ask me about **How to develop soft skills(which is being forgotten by the aspiring engineers like us)**
+💬 **Ask me about:** How to develop soft skills effectively.
 
-- 📫 How to reach me **1999abhilashakumari@gmail.com**
+📫 **Reach me at:** 1999abhilashakumari@gmail.com
 
-- ⚡ Fun fact **I think I am talkative(but in productive way)**
+⚡ **Fun Fact:** I'm talkative, but in a productive way!
 
 
 
