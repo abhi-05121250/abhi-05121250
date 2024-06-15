@@ -7,7 +7,7 @@
 
 - **Current Role:** Software Developer at HiCounselor.com
 - **Experience:** Over 1 year in full stack, backend, and machine learning domains.
-- **GitHub Initiative:** Building resources for learners, focusing on DSA and Development.
+- **GitHub Initiative:** Focusing on DSA and Development.
 - **Passion:** Developing soft skills, often overlooked by aspiring engineers like us.
 
 💬 **Ask me about:** How to develop soft skills effectively.
