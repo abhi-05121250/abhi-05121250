@@ -12,7 +12,7 @@
 
 💬 **Ask me about:** How to develop soft skills effectively.
 
-📫 **Reach me at:** 1999abhilashakumari@gmail.com
+📫 **Reach me at:** kabhilasha911@gmail.com
 
 ⚡ **Fun Fact:** I'm talkative, but in a productive way!
 
